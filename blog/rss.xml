@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>伯愷's 亂七八糟 Blog</title>
+        <link>https://gfes980617a.github.io/blog</link>
+        <description>伯愷's 亂七八糟 Blog</description>
+        <lastBuildDate>Sat, 11 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-TW</language>
+        <item>
+            <title><![CDATA[部落格新開張]]></title>
+            <link>https://gfes980617a.github.io/blog/2023/11/11/部落格新開張</link>
+            <guid>https://gfes980617a.github.io/blog/2023/11/11/部落格新開張</guid>
+            <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[測試7788]]></description>
+            <content:encoded><![CDATA[<p>測試7788</p>
+<p><a href="https://www.drv.tw/" target="_blank" rel="noopener noreferrer">drv.tw</a></p>]]></content:encoded>
+            <category>nothing</category>
+        </item>
+    </channel>
+</rss>

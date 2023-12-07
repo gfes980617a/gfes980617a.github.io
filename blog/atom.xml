@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gfes980617a.github.io/blog</id>
+    <title>伯愷's 亂七八糟 Blog</title>
+    <updated>2023-11-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gfes980617a.github.io/blog"/>
+    <subtitle>伯愷's 亂七八糟 Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[部落格新開張]]></title>
+        <id>https://gfes980617a.github.io/blog/2023/11/11/部落格新開張</id>
+        <link href="https://gfes980617a.github.io/blog/2023/11/11/部落格新開張"/>
+        <updated>2023-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[測試7788]]></summary>
+        <content type="html"><![CDATA[<p>測試7788</p>
+<p><a href="https://www.drv.tw/" target="_blank" rel="noopener noreferrer">drv.tw</a></p>]]></content>
+        <category label="nothing" term="nothing"/>
+    </entry>
+</feed>
