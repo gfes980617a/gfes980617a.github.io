@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbkbk=self.webpackChunkbkbk||[]).push([[75],{6740:e=>{e.exports=JSON.parse('{"label":"EPYC","permalink":"/blog/tags/epyc","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

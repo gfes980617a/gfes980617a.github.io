@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>伯愷's 亂七八糟 Blog</title>
+        <link>https://gfes980617a.github.io/blog</link>
+        <description>伯愷's 亂七八糟 Blog</description>
+        <lastBuildDate>Mon, 25 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-TW</language>
+        <item>
+            <title><![CDATA[EPYC7003雲端供應商OEM版CPU列表]]></title>
+            <link>https://gfes980617a.github.io/blog/2023/12/25/EPYC7003雲端供應商OEM版CPU列表</link>
+            <guid>https://gfes980617a.github.io/blog/2023/12/25/EPYC7003雲端供應商OEM版CPU列表</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[基本規格應該一樣，64核/128線，TDP 280w，256MB L3 cache。只有頻率不同]]></description>
+            <content:encoded><![CDATA[<p>基本規格應該一樣，64核/128線，TDP 280w，256MB L3 cache。只有頻率不同</p>
+<table><thead><tr><th>Part Number</th><th>Vendor</th><th>Model</th><th>Clock(GHz)</th><th>Boost(GHz)</th></tr></thead><tbody><tr><td>100-100000312</td><td>AMD</td><td>7763</td><td>2.45</td><td>3.5</td></tr><tr><td>100-100000314</td><td>Baidu</td><td>7W83</td><td><font color="red">2.55</font></td><td>3.5</td></tr><tr><td>100-100000325</td><td>H3C ??</td><td>7Y83</td><td>2.25</td><td>3.5</td></tr><tr><td>100-100000335</td><td>Google</td><td>7B13</td><td>2.25</td><td>3.5</td></tr><tr><td>100-100000343</td><td>Microsoft</td><td>7V13</td><td>2.45</td><td><font color="red">3.7</font></td></tr><tr><td>100-100000346</td><td>Oracle</td><td>7J13</td><td><font color="red">2.55</font></td><td>3.5</td></tr><tr><td>100-100000347</td><td>Tencent</td><td>7K83</td><td>2.45</td><td>3.5</td></tr><tr><td>100-100000348</td><td>Aliyun</td><td>7T83</td><td>2.45</td><td>3.5</td></tr></tbody></table>
+<p>備註: 資料各處蒐集來的，同一個cpu每個人寫的頻率還可能不一樣，以比較多人寫的為主??</p>]]></content:encoded>
+            <category>AMD</category>
+            <category>EPYC</category>
+            <category>Cloud</category>
+        </item>
+        <item>
+            <title><![CDATA[m365指派授權給外部使用者]]></title>
+            <link>https://gfes980617a.github.io/blog/2023/11/20/m365指派授權給外部使用者</link>
+            <guid>https://gfes980617a.github.io/blog/2023/11/20/m365指派授權給外部使用者</guid>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[已試過not work不能把組織授權綁到個人帳號上面使用]]></description>
+            <content:encoded><![CDATA[<p>已試過<code>not work</code>不能把組織授權綁到個人帳號上面使用</p>
+<p>無聊的 m365 管理員們不用想著如何把組織授權發派給個人帳號 <!-- -->:P</p>
+<p><a href="https://learn.microsoft.com/zh-tw/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide#assign-a-license-to-a-guest-user" target="_blank" rel="noopener noreferrer">微軟明明就說可以指派授權</a>
+但他沒說: 使用者無法使用or看見那份授權</p>
+<p><a href="https://techcommunity.microsoft.com/t5/microsoft-365-admin-center/assign-external-users-full-office-365-licenses/m-p/1188309" target="_blank" rel="noopener noreferrer">You can physically assign a licence to an external user but it’s not supported.</a></p>
+<p>組織管理員admin@xxx.onmicrosoft.com可以在<a href="https://admin.microsoft.com/" target="_blank" rel="noopener noreferrer">admin center</a>指派授權給外部使用者xxx@outlook.com</p>
+<p>實際上網頁版m365看不出差異，電腦版m365會看到subscribed，但還是用不了365訂閱的功能哦</p>]]></content:encoded>
+            <category>Cloud</category>
+            <category>Microsoft</category>
+        </item>
+        <item>
+            <title><![CDATA[部落格新開張]]></title>
+            <link>https://gfes980617a.github.io/blog/2023/11/11/部落格新開張</link>
+            <guid>https://gfes980617a.github.io/blog/2023/11/11/部落格新開張</guid>
+            <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[各種7788東西的地方]]></description>
+            <content:encoded><![CDATA[<p>各種7788東西的地方</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbkbk=self.webpackChunkbkbk||[]).push([[713],{3457:l=>{l.exports=JSON.parse('[{"label":"AMD","permalink":"/blog/tags/amd","count":1},{"label":"EPYC","permalink":"/blog/tags/epyc","count":1},{"label":"Cloud","permalink":"/blog/tags/cloud","count":2},{"label":"Microsoft","permalink":"/blog/tags/microsoft","count":1}]')}}]);
